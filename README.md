@@ -8,7 +8,7 @@
 ## 核心作品
 - [美敦力研发战略分析（Day1-Day3）](./bci_analyst/week1/mdt_analysis_day1.ipynb)
 - [强生研发战略分析（Day4）](./bci_analyst/week1/jnj_analysis_day4.ipynb)
-- [美敦力 vs 强生研发对比（Day5）](./bci_analyst/week1/comparison_analysis_day5.ipynb)
+- [美敦力 vs 强生研发对比（Day5）](./comparison_analysis_day5.ipynb)
 - [未来脑律公司扫描报告](./company_scans/scan_01_zenowell.md)
 - [强脑科技公司扫描报告](./company_scans/scan_02_brainco.md)
 
