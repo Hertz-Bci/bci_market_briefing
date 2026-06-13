@@ -5,13 +5,10 @@
 ## 关于本站
 我是一名商科背景的分析学习者，正在用 Python 和数据，持续研究脑机接口行业的商业化逻辑。
 
-## 本期关注（6月）
-强脑科技C轮融资20亿，产业资本扎堆，预示消费级BCI硬件供应链正在成熟。
-
 ## 核心作品
-- [美敦力研发战略分析（Day1-Day3）](./mdt_analysis_day1.html)
-- [强生研发战略分析（Day4）](./jnj_analysis_day4.html)
-- [美敦力 vs 强生研发对比（Day5）](./day5_comparison.html)
+- [美敦力研发战略分析（Day1-Day3）](./bci_analyst/week1/mdt_analysis_day1.ipynb)
+- [强生研发战略分析（Day4）](./bci_analyst/week1/jnj_analysis_day4.ipynb)
+- [美敦力 vs 强生研发对比（Day5）](./comparison_analysis_day5.ipynb)
 - [未来脑律公司扫描报告](./company_scans/scan_01_zenowell.md)
 - [强脑科技公司扫描报告](./company_scans/scan_02_brainco.md)
 
